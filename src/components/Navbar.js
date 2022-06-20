@@ -8,7 +8,7 @@ export default function Navbar() {
     <header className="bg-gray-800 md:sticky top-0 z-50 " >
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
        
-          <a href="#about" className="ml-3 text-xl title-font font-medium text-white mb-4 md:mb-0 ">
+          <a href="#about" className="ml-3 text-xl  font-medium text-white mb-4 md:mb-0 ">
             Saurav Thakur
           </a>
         
@@ -19,6 +19,7 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
+          
         </nav>
         <a
           href="#contact"

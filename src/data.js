@@ -92,7 +92,7 @@ const projects = [
 ];
 
 const skills = [
-  "CSS"," HTML", "Bootstrap", "JAVASCRIPT", "MongoDB" ,"SQL" , "React.js" , "Git" , "Github " , "jQuery" , "Express.js" ,"Node.js"
+  "CSS"," HTML", "Bootstrap", "TailwindCSS", "JAVASCRIPT", "MongoDB" ,"SQL" , "React.js" , "Git" , "Github " , "jQuery" , "Express.js" ,"Node.js"
 ];
 
 export { projects , skills  };
