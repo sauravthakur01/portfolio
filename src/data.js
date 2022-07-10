@@ -88,6 +88,14 @@ const projects = [
     image: "https://i.postimg.cc/KYW7rgvz/General-News-Panda.gif",
     link: "#",
   },
+  {
+    title: "MERN Insta Clone",
+    subtitle: "MERN Stack ",
+    description:
+      "Insta clone is a full stack Mern App where you can post comment follow and unfollow user . ",
+    image: "https://i.postimg.cc/1XDy8MJg/React-App.gif",
+    link: "https://instaclonee11.herokuapp.com/",
+  },
   
 ];
 
